@@ -81,17 +81,50 @@ frame(function() {
 frame(function() {
   jaimeContainer.style.top = '60%';
   jaimeContainer.style.left = '55%';
-  jaimeContainer.style.transform = 'rotateY(180deg)'
+
+
 
 })
 //
 frame(function() {
   cerseiContainer.style.top = '60%';
   cerseiContainer.style.left = '50%';
-  cerseiContainer.style.transform = 'rotateY(180deg)'
+
+
+
 //
 })
+frame(function() {
+  cerseiContainer.style.top = '80%';
+  cerseiContainer.style.left = '50%';
 //
+})
 
+frame(function() {
+  jaimeContainer.style.top = '80%';
+  jaimeContainer.style.left = '55%';
+})
+
+
+frame(function() {
+  cerseiContainer.style.top = '90%';
+  cerseiContainer.style.left = '50%';
+//
+})
+
+frame(function() {
+  jaimeContainer.style.top = '90%';
+  jaimeContainer.style.left = '55%';
+})
+
+frame(function() {
+  cerseiContainer.style.top = '100%';
+  cerseiContainer.style.left = '50%';
+//
+})
+frame(function() {
+  jaimeContainer.style.top = '100%';
+  jaimeContainer.style.left = '55%';
+})
 
 }

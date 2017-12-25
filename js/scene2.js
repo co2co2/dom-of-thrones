@@ -81,6 +81,7 @@ function scene2() {
   frame(function() {
     sword.style.top = '64%'
     sword.style.left = '53%'
+    
   })
 
 
