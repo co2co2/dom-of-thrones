@@ -1,5 +1,4 @@
 function scene3() {
-console.log('Executing scene 3!')
   // Setup Stage
   stage = document.querySelector('#stage')
   woods = document.querySelector('#trees')
